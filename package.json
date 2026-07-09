@@ -1,0 +1,37 @@
+{
+  "name": "awesome-x402",
+  "version": "1.0.0",
+  "description": "Awesome x402 | Machine-to-Machine Payment Protocols & Agent Commerce",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx watch src/index.ts",
+    "start": "node dist/index.js",
+    "index:scan": "tsx src/signal-finder.ts"
+  },
+  "keywords": [
+    "x402",
+    "ai-agents",
+    "machine-payments",
+    "mcp",
+    "base-l2",
+    "ethereum",
+    "usdc",
+    "automation",
+    "seo"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.9.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.0",
+    "@types/node": "^20.10.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
