@@ -78,6 +78,7 @@ The core payment facilitation proxy handling:
 | **base-usdc-mcp** | Base L2 USDC balance and transaction management | ✅ Active |
 | **agent-wallet-mcp** | Secure wallet management for autonomous agents | 🔄 Development |
 | **payment-router-mcp** | Smart routing for multi-destination payments | 🔄 Development |
+| **hostdefi-x402** | Hosted x402-payable token risk scanner + JSON-RPC on 82 chains (hostdefi.com/api/v1/mcp) | ✅ Active |
 
 </div>
 
